@@ -26,7 +26,6 @@ class NewsPresenter(val model: NewsMVP.Model): NewsMVP.Presenter {
 
                 override fun onComplete() {
                     view.cancelRefreshDialog()
-                    view.showToast("Load news complete!")
                 }
             })
     }
