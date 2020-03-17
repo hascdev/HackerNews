@@ -1,5 +1,5 @@
 # HackerNews
-Buscador de noticias usando la API de Hacker News
+Buscador de noticias usando la API de Hacker News.
 Arquitectura MVP
 - Kotlin 
 - Dagger2 
